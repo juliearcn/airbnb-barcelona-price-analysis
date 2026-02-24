@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #Data Loading
-df = pd.read_csv("/Users/edaarcn/Documents/airbnb-barcelona-price-analysis/data/listings.csv")
+df = pd.read_csv("***") #put the dataset's path
 
 print("Shape :", df.shape) #Dataset dimensions: (19410, 18)
 print("\nColonnes :")
