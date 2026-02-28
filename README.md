@@ -11,9 +11,15 @@ After cleaning missing values and removing outliers, the final dataset contains 
 
 ## Key Questions
 The analysis is structured around the following key questions:
-1. What is the impact of room type on price?
+1. What is the impact of room type on prices?
 2. How do prices vary across neighborhoods?
 3. Does the number of reviews influence pricing?
+
+## Interactive Dashboard
+Explore the interactive BI dashboard here:
+[**View the Looker Studio Dashboard**](https://lookerstudio.google.com/reporting/cc27cedf-ed01-4ad4-9010-6433e41f0c23)
+
+![Dashboard Preview](images/dashboard_preview.png)
 
 ## Data Cleaning
 ### Missing Values 
